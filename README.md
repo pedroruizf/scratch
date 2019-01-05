@@ -1,5 +1,5 @@
 # Scratch
-Este repositorio versa sobre los recursos sobre la formación en iniciación a la programación con Scratch que uso.
+Este repositorio versa sobre los recursos sobre formación en iniciación a la programación con Scratch que uso.
 
 ## Programa
 * [Versión 3 online](https://scratch.mit.edu/)
